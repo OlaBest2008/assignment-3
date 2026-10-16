@@ -61,3 +61,4 @@ case "$CMD" in
         echo "Error: Invalid command" >&2
         exit 2
         ;;
+esac
